@@ -39,17 +39,6 @@ div[data-testid="stDataFrame"]{
 </style>
 """,unsafe_allow_html=True)
 
-
-# -----------------------------
-# PAGE CONFIG
-# -----------------------------
-st.set_page_config(
-    page_title="Agentic AI Warehouse Decision Support System",
-    page_icon="📦",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
 # -----------------------------
 # LOAD MODEL
 # -----------------------------
